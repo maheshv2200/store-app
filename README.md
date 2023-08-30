@@ -83,9 +83,5 @@ This frontend application is designed to work with a corresponding backend API. 
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
