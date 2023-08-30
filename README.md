@@ -80,5 +80,20 @@ This frontend application is designed to work with a corresponding backend API. 
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
+## Project Screenshots
+
+
+![Screenshot 2023-08-30 233415](https://github.com/maheshv2200/store-app/assets/115234812/47f58364-857f-4f3b-9f29-5174e863e12a)
+# Home screen
+
+
+![Screenshot 2023-08-30 233349](https://github.com/maheshv2200/store-app/assets/115234812/dc803bb3-0bbf-428f-a0ec-c0bf70b3041f)
+
+# Cart screen
+![Screenshot (66)](https://github.com/maheshv2200/store-app/assets/115234812/467ef526-4626-4d45-b598-ad84bb80269f)
+
+# Product screen
+![Screenshot (65)](https://github.com/maheshv2200/store-app/assets/115234812/576fd0d2-6733-4a6c-9481-711740de81e1)
+
 
 
