@@ -61,9 +61,6 @@ This repository contains the frontend code for an E-Commerce web application bui
    npm install
    ```
 
-## Configuration
-
-Copy the `.env.example` file to `.env` and update the necessary configuration variables, such as API endpoint URLs and API keys.
 
 ## Usage
 
